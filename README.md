@@ -5,10 +5,10 @@ You can view my work through this link https://github.com/Hisham9995/Election_An
 
 ### Overview of Election Audit
 This project was about an Election audit getting winning candidate's  As well as percentage and the numbers by
-1- Calculate the total number of votes cast 
-2- Putting a list of nominated candidate who recieved votes  
-3- Calculating the total number of votes as well as percentage for each candidate
-4- Determining  the winniner by the number of votes recieved  
+1. Calculate the total number of votes cast 
+2. Putting a list of nominated candidate who recieved votes  
+3. Calculating the total number of votes as well as percentage for each candidate
+4. Determining  the winniner by the number of votes recieved  
 
 ### The Data
 Contains columns , ballot ID, county, and candidate name.and ranges the full name and number of votes and percentage 
