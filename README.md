@@ -19,7 +19,7 @@ The total amount of votes in the election  were 369,711. Jefferson won 10.5% of 
 Regarding candidates  Diana DeGette had the most votes 73.8% she had   272,892 votes. The second place candidate Charles Casper Stockham  received 23% of the total votes. in the third place candidate, Raymon Anthony Doane  only received 3.1% of the overall votes. 
 
 ## Election Audit Summary
-This script is so useful in determining the number of votes  on the other hand the winner and also the age of voters and each county or state voted for who and why
+This script is so useful and be modified in determining the number of votes  on the other hand the winner and also the age of voters and each county or state voted for who and why
  it can give more details and data  If it is used at the right direction  and we can tell the top popular canidates in each county and why
 
 
