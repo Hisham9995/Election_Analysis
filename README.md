@@ -24,4 +24,4 @@ This script is so useful in determining the number of votes  on the other hand t
 
 
 
-![](Election_Analysis/analysis/election_results.png)
+      ![](Election_Analysis/analysis/election_results.png)
